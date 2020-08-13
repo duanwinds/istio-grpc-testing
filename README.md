@@ -1,9 +1,10 @@
-# helm-chart
+# Pressure test for grpc with istio
 
-Requirement:
+### Requirement:
 * helm : 安裝測試環境
 * wrk (optional) : 壓測工具
 
+### 安裝測試流程：
 
 1. add helm repo
 ```
